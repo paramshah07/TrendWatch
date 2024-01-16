@@ -18,7 +18,5 @@ Plans for the FUTURE :
 <br>
 <br>
 
-You are free to suggest new ideas to add to this project. ❤
-\
-\
+You are free to suggest new ideas to add to this project. 
 
